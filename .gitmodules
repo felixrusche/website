@@ -1,0 +1,4 @@
+[submodule "own_website/public"]
+	path = own_website/public
+	url = https://github.com/felixrusche/felixrusche.github.io
+	branch = main

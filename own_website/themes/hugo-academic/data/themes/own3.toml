@@ -1,0 +1,18 @@
+# Theme metadata
+name = "own3"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#7BA6DA" # color of marked text
+
+# Menu
+menu_primary = "#010A13" # color of menu bar
+menu_text = "rgba(255,255,255,0.6)" # text of menu
+menu_text_active = "rgba(255,255,255,1)" # color of active tab in menu
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#010A13" # background color of odd sections
+home_section_even = "#010A13" # background color of even sections
